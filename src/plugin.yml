@@ -1,0 +1,8 @@
+name: Tutorial
+main: de.tutorial.main.Main
+author: SourceCodeDE
+version: 0.1
+
+commands:
+  vanish:
+  back:
